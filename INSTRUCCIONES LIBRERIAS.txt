@@ -1,0 +1,2 @@
+Hola, es importante para la compilación del programa que agreguen las librerías externas.
+Gracias.
