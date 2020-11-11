@@ -1,2 +1,3 @@
 Hola, es importante para la compilación del programa que agreguen las librerías externas.
+Debe de ser compilado en la versión más reciente del JDK (15)
 Gracias.
